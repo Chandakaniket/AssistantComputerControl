@@ -23,6 +23,7 @@ The setup is _very_ simple. It only takes a few minutes to set up!
 
 ### Step 1: Dependencies
 All you need is an [IFTTT]() and a [Dropbox]() account plus the Dropbox software installed on your computer.
+_Note: for HomeComputerControl to work Dropbox will need to be running on your PC at all times_
 
 ### Step 2: Install
 When you have both, you can simply enable _[this applet](https://ifttt.com/applets/dkd6zi29-set-up-the-homecomputercontrol-software)_ and say "OK Google, set up HCC" and the software will be downloaded to your computer!
