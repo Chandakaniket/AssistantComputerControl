@@ -1,9 +1,10 @@
 # AssistantComputerControl
 Control your computer using your Google Home or Amazon Alexa assistant!
 
-This simple program lets you tell your Google Home to do basic tasks on your computer like;
+This simple program lets you tell your assistant to do basic tasks on your computer like;
 ### Supported computer actions
 * Shutdown
+* Open a file
 * Restart
 * Sleep / Hibernate
 * Lock
