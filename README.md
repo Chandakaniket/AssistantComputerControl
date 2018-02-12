@@ -1,5 +1,5 @@
-# HomeComputerControl
-Control your computer with Google Home!
+# AssistantComputerControl
+Control your computer using your Google Home or Amazon Alexa assistant!
 
 This simple program lets you tell your Google Home to do basic tasks on your computer like;
 ### Supported computer actions
