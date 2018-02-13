@@ -4,13 +4,14 @@
   * Open: open a file or folder
   * Die: end the ACC process
 * Message box asking if you wish the software to start when Windows starts
+* Added [`CheckForUpdates`](https://github.com/AlbertMN/AssistantComputerControl/wiki/Config#config-information) config setting
 * Added system tray icon containing the following buttons:
   * "Open on startup" _(it it doesn't already)_
   * "open folder" opens the folder containing the ACC software
   * "Exit" closes the ACC software
 * Performance optimization
 * Moved to event-based actions
-  * Removed `SleepTime` config setting
+* Removed `SleepTime` config setting
 
 ## v0.2 (Jan 3, 2018)
 * Added 3 actions:
