@@ -33,7 +33,7 @@ When you have both, you can simply enable _[this applet](https://ifttt.com/apple
 The following step will create a folder in your Dropbox called "AssistantComputerControl" with a file called `OPEN_ME.exe` - to finish the setup you simply have to open this file and you're just one step away from being done! Next thing we want to do is making the ACC software start automatically everytime your computer starts. To do this just create a shortcut of the `OPEN_THIS.exe` and put it in the Windows Startup folder, which you can find by pressing `Win + R` and typing `shell:startup`; place the shortcut in this folder and you're done!
 
 ### Step 4: Adding actions
-To do actions on your computer, go to [this IFTTT profile](https://ifttt.com/makers/albertdev) and enable the applets you want!
+To do actions on your computer, go to [this IFTTT profile](https://ifttt.com/makers/assistantcomputercontrol) and enable the applets you want!
 
 ---
 
