@@ -1,7 +1,7 @@
 # AssistantComputerControl
-Control your computer using your Google Home or Amazon Alexa assistant!
+Control your computer using your **Google Home**, **Amazon Alexa** and **Microsoft Cortana** assistants!
 
-This simple program lets you tell your assistant to do basic tasks on your computer like;
+This is a simple but powerful tool that allows you to perform tasks on your Windows computer like;
 ### Supported computer actions
 * Shutdown
 * Open a file
