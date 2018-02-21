@@ -27,7 +27,7 @@ All you need is an [IFTTT](https://ifttt.com/) and a [Dropbox](https://www.dropb
 _Note: for AssistantComputerControl to work Dropbox will need to be running on your PC at all times_
 
 ### Step 2: Install
-When you have both, you can simply enable _[this applet](https://ifttt.com/applets/dkd6zi29-set-up-the-homecomputercontrol-software)_ and say "OK Google, set up HCC" and the software will be downloaded to your computer!
+When you have both, you can simply enable _[this applet](https://ifttt.com/applets/xk7JPtWu-acc-install-assistantcomputercontrol)_ and say "OK Google, Assistant Computer Control download" or "OK Google, Install Assistant Computer Control" and the software will be downloaded to your computer!
 
 ### Step 3: Setup done!
 The following step will create a folder in your Dropbox called "AssistantComputerControl" with a file called `OPEN_ME.exe` - to finish the setup you simply have to open this file and you're just one step away from being done! Next thing we want to do is making the ACC software start automatically everytime your computer starts. To do this just create a shortcut of the `OPEN_THIS.exe` and put it in the Windows Startup folder, which you can find by pressing `Win + R` and typing `shell:startup`; place the shortcut in this folder and you're done!
